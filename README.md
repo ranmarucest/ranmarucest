@@ -14,7 +14,7 @@
       <i>BYI</i>: ${\textsf{\color{Cyan}σƒt𝑒η σƒƒ-t𝒶b}}$ ${\textsf{\color{#cccccc}⨾}}$ ${\textsf{\color{Magenta}ωhisρ𝑒r m𝑒!}}$<br>
       <i>DNI</i>: ${\textsf{\color{Red}𝒶ηtis}}$ ${\textsf{\color{#cccccc}⨾}}$  ${\textsf{\color{SaddleBrown}υηd𝑒r 18}}$<br>
       ${\textsf{\color{#cccccc}⌞ LINKS ⌝}}$<br>
-      <p align="center"><a href="https://ranmarucest.straw.page/">strawpage</a> ${\textsf{\color{#cccccc}⨾}}$ <a href="https://ranmarucest.atabook.org/">atabook</a> ${\textsf{\color{#cccccc}⨾}}$ <a href="https://rentry.co/ranmarucest">rentry</a> ${\textsf{\color{#cccccc}⨾}}$ <a href="https://rentry.co/ranmarucest">twitter</a> ${\textsf{\color{#cccccc}⨾}}$ <a href="https://sptfy.in/ranmarucest">spotify</a>
+      <p align="center"><a href="https://ranmarucest.straw.page/">str𝒶ωρ𝒶g𝑒</a> ${\textsf{\color{#cccccc}⨾}}$ <a href="https://ranmarucest.atabook.org/">𝒶t𝒶bσσk</a> ${\textsf{\color{#cccccc}⨾}}$ <a href="https://rentry.co/ranmarucest">r𝑒ηtrყ</a> ${\textsf{\color{#cccccc}⨾}}$ <a href="https://rentry.co/ranmarucest">tωitt𝑒r</a> ${\textsf{\color{#cccccc}⨾}}$ <a href="https://sptfy.in/ranmarucest">sρσtiƒყ</a>
 
 </th>
 </tr>
