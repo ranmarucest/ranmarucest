@@ -19,4 +19,4 @@
 </th>
 </tr>
 </table>
-<p align="center"><img align="center"<img height="32" src="https://file.garden/ZNjY5-CbZ0o-GQoj/resized.force.4960b6a5.png"></a> <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/ilovemeran.png"></a> <img align="center"<img height="32"  src="https://file.garden/ZNjY5-CbZ0o-GQoj/resized.force.5d05c903.png"></a> 
+<p align="center"><img align="center"<img height="32" src="https://file.garden/ZNjY5-CbZ0o-GQoj/resized.force.4960b6a5.png"></a> <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/meranbetter.png"></a> <img align="center"<img height="32"  src="https://file.garden/ZNjY5-CbZ0o-GQoj/resized.force.5d05c903.png"></a> 
